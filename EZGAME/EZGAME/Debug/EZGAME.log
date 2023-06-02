@@ -1,0 +1,43 @@
+﻿  Action.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+  Character.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(373,28): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(718,28): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(770,29): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(773,29): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(953,29): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(956,29): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(1163,28): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Character.cpp(1217,28): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+  EZGAME.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\EZGAME.cpp(339,30): warning C4101: '_p2finishX' :참조되지 않은 지역 변수입니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\EZGAME.cpp(339,6): warning C4101: '_p1finishX' :참조되지 않은 지역 변수입니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\EZGAME.cpp(339,18): warning C4101: '_p1finishY' :참조되지 않은 지역 변수입니다.
+  InGame.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+  Player.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+  Render.cpp
+  Select.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+  Sound.cpp
+  Texture.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+  TextureVector.cpp
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Texture.h(18,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTexture' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\Animation.h(30,2): warning C4091: 'static ': 변수를 선언하지 않으면 'Animation' 왼쪽은 무시됩니다.
+D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\EZGAME\TextureVector.cpp(34,28): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Time.cpp
+  코드를 생성하고 있습니다...
+  EZGAME.vcxproj -> D:\SVN\Windows_Programming_Miniproject\EZGAME\5_Project\EZGAME\Debug\EZGAME.exe
